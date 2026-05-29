@@ -1,3 +1,3 @@
-# Entrega_Analisando_Dados_de_um_Dashboard_de_Vendas_no_Power_BI
+# Entrega_Dashboard_de_Vendas_no_Power_BI
 
 Segue exercício em: https://github.com/JoabCarvalho/DIO_Entrega_Analisando_Dados_de_um_Dashboard_de_Vendas_no_Power_BI
